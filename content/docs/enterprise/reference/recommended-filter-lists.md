@@ -16,7 +16,7 @@ The essential filter lists we recommend for most Zen Enterprise deployments.
 
 ## Ads
 - __Zen - Ads__<br />
-  https://raw.githubusercontent.com/ZenPrivacy/filter-lists/master/ads/ads.txt
+  https://raw.githubusercontent.com/irbis-sh/filter-lists/master/ads/ads.txt
 - __EasyList__<br />
   https://easylist.to/easylist/easylist.txt
 - __AdGuard Base filter__<br />
@@ -25,7 +25,7 @@ The essential filter lists we recommend for most Zen Enterprise deployments.
 ## Privacy
 
 - __Zen - Privacy__<br />
-  https://raw.githubusercontent.com/ZenPrivacy/filter-lists/master/privacy/privacy.txt
+  https://raw.githubusercontent.com/irbis-sh/filter-lists/master/privacy/privacy.txt
 - __EasyPrivacy__<br />
   https://easylist.to/easylist/easyprivacy.txt
 - __AdGuard Spyware filter__<br />

@@ -35,7 +35,7 @@ Learn what the agent does on your endpoints.
 
 For HTTP/HTTPS request proxying, the agent hosts a [PAC file](https://en.wikipedia.org/wiki/Proxy_auto-config) on an available local port.
 
-Some hostnames are automatically excluded from proxying due to security or compatibility reasons. For more details, see [`ZenPrivacy/zen-https-exclusions`](https://github.com/ZenPrivacy/zen-https-exclusions) on GitHub.
+Some hostnames are automatically excluded from proxying due to security or compatibility reasons. For more details, see [`irbis-sh/zen-https-exclusions`](https://github.com/irbis-sh/zen-https-exclusions) on GitHub.
 
 ### System configuration
 

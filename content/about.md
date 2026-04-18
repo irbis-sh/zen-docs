@@ -7,10 +7,10 @@ Zen is a suite of powerful and flexible apps offering ad-blocking, content filte
 
 Thank you for choosing us. We are excited to have you on this journey.
 
-- [Personal Edition](https://zenprivacy.net)
-- [Enterprise Edition](https://zen.irbis.sh/enterprise)
-- [GitHub](https://github.com/ZenPrivacy)
-- [Bluesky](https://bsky.app/profile/zen.irbis.sh)
+- [Personal Edition](https://irbis.sh/zen)
+- [Enterprise Edition](https://irbis.sh/rime)
+- [GitHub](https://github.com/irbis-sh)
+- [Bluesky](https://bsky.app/profile/irbis.sh)
 - [Reddit](https://www.reddit.com/r/IrbisZen/)
 - [LinkedIn](https://www.linkedin.com/company/irbis-sh)
 - [Discord](https://discord.gg/jSzEwby7JY)

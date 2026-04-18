@@ -33,12 +33,12 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/ZenPrivacy"
+      url: "https://github.com/irbis-sh"
       params:
         icon: github
     - name: Bluesky
       weight: 6
-      url: "https://bsky.app/profile/zen.irbis.sh"
+      url: "https://bsky.app/profile/irbis.sh"
       params:
         icon: bluesky
     - name: Discord
@@ -64,4 +64,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/ZenPrivacy/zen-docs/edit/master/content"
+    base: "https://github.com/irbis-sh/zen-docs/edit/master/content"
